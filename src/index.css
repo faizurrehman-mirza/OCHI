@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: neue;
+    src: url("../public/NeueMontreal-Regular.ttf");
+}
+
+@theme{
+    --font-neue: 'neue', sans-serif;
+}
+
+@font-face {
+    font-family: founders-grotesk;
+    src: url("../public/FoundersGrotesk-Semibold.ttf");
+}
+
+@theme{
+    --font-founder: 'founder-grotesk', sans-serif;
+}
