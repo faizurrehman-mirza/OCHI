@@ -6,7 +6,7 @@
 }
 
 @theme{
-    --font-neue: 'neue', sans-serif;
+    --font-neue: 'neue', "sans-serif";
 }
 
 @font-face {
@@ -15,5 +15,5 @@
 }
 
 @theme{
-    --font-founder: 'founder-grotesk', sans-serif;
+    --font-founder: 'founders-grotesk', "sans-serif";
 }
